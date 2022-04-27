@@ -9,7 +9,7 @@ export default function Home() {
         <meta name="description" content="Peynirci" />
         <link rel="icon" href="/logo.png" />
       </Head>
-      <h1>Hello</h1>
+      <h1>Peynirci Nuri</h1>
     </div>
   )
 }
